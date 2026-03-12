@@ -1,0 +1,13 @@
+# Environment variables
+.env
+.env.local
+
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Downloaded videos
+*.mp4
+*.webm
+*.m4a
