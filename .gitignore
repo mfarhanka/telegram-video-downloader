@@ -17,3 +17,6 @@ __pycache__/
 *.mp4
 *.webm
 *.m4a
+
+# Logs
+logs/
